@@ -1,2 +1,2 @@
-# Iris_Flower_Classification
+# Bharat Intern Tasks
 Applying Machine Learning Algorithm on Iris Dataset.
